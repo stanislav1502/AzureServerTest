@@ -5,6 +5,7 @@
     </head>
     <body>
         Здравей :)
+	<a href="contacts.php"> Контакти </a>
     </body>
 </html>
 
