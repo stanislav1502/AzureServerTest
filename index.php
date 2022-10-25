@@ -4,8 +4,8 @@
         <meta charset="utf-8">
     </head>
     <body>
-        Здравей :)
-	<a href="contacts.php"> Контакти </a>
+        Р—РґСЂР°РІРµР№ :)
+	<a href="contacts.php"> РљРѕРЅС‚Р°РєС‚Рё </a>
     </body>
 </html>
 
